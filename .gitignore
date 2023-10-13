@@ -131,3 +131,5 @@ querydsl/
 node_modules/
 dist.zip
 package-lock.json
+pandora-cloud.exe
+pandora-cloud
